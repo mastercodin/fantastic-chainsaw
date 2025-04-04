@@ -1,0 +1,124 @@
+#EXTM3U
+# Updated: 2024-04-04
+
+# === Free IPTV Lists (3rd Party) ===
+#EXTINF:-1,10 Play (Australia) [Broken/Maintenance]
+https://www.apsattv.com/10fast.m3u
+
+#EXTINF:-1,LocalNow
+https://www.apsattv.com/localnow.m3u
+
+#EXTINF:-1,Redbox
+https://www.apsattv.com/redbox.m3u
+
+#EXTINF:-1,Distro
+https://www.apsattv.com/distro.m3u
+
+#EXTINF:-1,Igocast (Unreliable)
+https://www.apsattv.com/igocast.m3u
+
+#EXTINF:-1,LG Channels
+https://www.apsattv.com/lg.m3u
+
+#EXTINF:-1,Xiaomi
+https://www.apsattv.com/xiaomi.m3u
+
+#EXTINF:-1,Fire TV
+https://www.apsattv.com/firetv.m3u
+
+#EXTINF:-1,TCL
+https://www.apsattv.com/tcl.m3u
+
+#EXTINF:-1,TCL TV Plus
+https://www.apsattv.com/tclplus.m3u
+
+#EXTINF:-1,Tablo
+https://www.apsattv.com/tablo.m3u
+
+#EXTINF:-1,Vizio TV
+https://www.apsattv.com/vizio.m3u
+
+#EXTINF:-1,Zeasn
+https://www.apsattv.com/zeasn.m3u
+
+#EXTINF:-1,Tubi TV (3rd Party)
+https://github.com/dtankdempse/tubi-m3u/tree/main
+
+#EXTINF:-1,Vidaa
+https://www.apsattv.com/vidaa.m3u
+
+#EXTINF:-1,Xumo
+https://www.apsattv.com/xumo.m3u
+
+#EXTINF:-1,The Roku Channel
+https://www.apsattv.com/rok.m3u
+
+#EXTINF:-1,Sportstv
+https://www.apsattv.com/sportstv.m3u
+
+#EXTINF:-1,Klowd TV
+https://www.apsattv.com/klowd.m3u
+
+#EXTINF:-1,Freetv
+https://www.apsattv.com/freetv.m3u
+
+#EXTINF:-1,Rewardedtv
+https://www.apsattv.com/rewardedtv.m3u
+
+#EXTINF:-1,Freemoviesplus
+https://www.apsattv.com/freemoviesplus.m3u
+
+#EXTINF:-1,Veely
+https://www.apsattv.com/veely.m3u
+
+#EXTINF:-1,Galxy.TV
+https://www.apsattv.com/galxytv.m3u
+
+#EXTINF:-1,Rakuten TV J.P (Outdated)
+https://www.apsattv.com/rakuten-jp.m3u
+
+# === Samsung TV Plus (Regional) ===
+#EXTINF:-1,Samsung TV Plus - New Zealand
+https://www.apsattv.com/ssungnz.m3u
+
+#EXTINF:-1,Samsung TV Plus - Australia
+https://www.apsattv.com/ssungaus.m3u
+
+#EXTINF:-1,Samsung TV Plus - Thailand
+https://www.apsattv.com/ssungth.m3u
+
+#EXTINF:-1,Samsung TV Plus - Philippines
+https://www.apsattv.com/ssungph.m3u
+
+#EXTINF:-1,Samsung TV Plus - Brazil
+https://www.apsattv.com/ssungbra.m3u
+
+#EXTINF:-1,Samsung TV Plus - Mexico
+https://www.apsattv.com/ssungmex.m3u
+
+#EXTINF:-1,Samsung TV Plus - Norway
+https://www.apsattv.com/ssungnor.m3u
+
+#EXTINF:-1,Samsung TV Plus - Finland
+https://www.apsattv.com/ssungfin.m3u
+
+#EXTINF:-1,Samsung TV Plus - Denmark
+https://www.apsattv.com/ssungden.m3u
+
+#EXTINF:-1,Samsung TV Plus - Sweden
+https://www.apsattv.com/ssungswe.m3u
+
+#EXTINF:-1,Samsung TV Plus - Portugal
+https://www.apsattv.com/ssungpor.m3u
+
+#EXTINF:-1,Samsung TV Plus - Luxembourg
+https://www.apsattv.com/ssunglux.m3u
+
+#EXTINF:-1,Samsung TV Plus - Belgium
+https://www.apsattv.com/ssungbelg.m3u
+
+#EXTINF:-1,Samsung TV Plus - Ireland
+https://www.apsattv.com/ssungire.m3u
+
+#EXTINF:-1,Samsung TV Plus - Netherlands
+https://www.apsattv.com/ssungneth.m3u
